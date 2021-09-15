@@ -36,7 +36,7 @@ quesarray = [
     answer: "Malayalam",
   },
   {
-    question: "Where do i live?",
+    question: "Where do i live? ",
     answer: "Thane",
   },
 ];
